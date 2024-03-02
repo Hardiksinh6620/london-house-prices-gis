@@ -1,0 +1,12 @@
+{
+  "count": 33,
+  "minimum": 180000,
+  "maximum": 980000,
+  "sum": 12088875,
+  "mean": 366329.5,
+  "standard_deviation": 163782.7,
+  "nulls": 0,
+  "mean_decimal_places": 1,
+  "source": "Original PDF page 4, Table 1",
+  "status": "transcribed aggregate, not raw observations"
+}
