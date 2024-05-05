@@ -20,3 +20,7 @@ Read [HISTORY.md](HISTORY.md) for the assigned-date disclosure and [CREDITS.md](
 - [Runnable example](examples/README.md)
 - [Validation](tests/README.md)
 - [Assigned calendar](ARCHIVE_CALENDAR.md)
+
+## Later portfolio documentation
+
+- [Reconstructed portfolio notes](portfolio-notes/README.md)
